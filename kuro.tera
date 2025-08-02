@@ -1,0 +1,61 @@
+---
+whiskers:
+  version: ^2.5.1
+  matrix:
+    - flavor
+  filename: "themes/{{ flavor.identifier }}.json"
+  hex_format: "#{{r}}{{g}}{{b}}{{z}}"
+---
+
+{
+  "theme": {
+    "bgPrimary": "{{ base.hex }}",
+    "bgPrimaryTransparent": "{{ base.hex }}cc",
+    "bgSecondary": "{{ surface0.hex }}",
+    "bgTertiary": "{{ surface1.hex }}",
+    "bgHover": "{{ surface2.hex }}",
+    "bgHoverSecondary": "{{ surface2.hex }}",
+    "bgHoverTertiary": "{{ overlay0.hex }}",
+    "bgActive": "{{ surface0.hex }}",
+    "bgActiveSecondary": "{{ surface2.hex }}",
+    "bgActiveTertiary": "{{ overlay0.hex }}",
+    "bgSeparator": "{{ overlay1.hex }}",
+    "bgBorder": "{{ surface2.hex }}",
+    "bgScrollbar": "{{ subtext1.hex }}",
+    "bgScrollbarHover": "{{ overlay1.hex }}",
+    "bgScrollbarActive": "{{ subtext0.hex }}",
+
+    "fontColorPrimary": "{{ text.hex }}",
+    "fontColorSecondary": "{{ subtext1.hex }}",
+    "fontColorTertiary": "{{ subtext0.hex }}",
+    "fontColorDisabled": "{{ overlay1.hex }}",
+    "fontColorWarning": "{{ yellow.hex }}",
+    "fontColorError": "{{ red.hex }}",
+    "fontColorSuccess": "{{ green.hex }}",
+    "fontColorBrand": "{{ mauve.hex }}",
+
+    "bgBrand": "{{ mauve.hex }}",
+    "bgBrandHover": "{{ lavender.hex }}",
+    "bgBrandHoverSecondary": "{{ mauve.hex }}",
+    "bgBrandSecondary": "{{ mauve.hex }}",
+    "bgBrandActive": "{{ lavender.hex }}",
+    "bgBrandDisable": "{{ surface0.hex }}",
+
+    "red": "{{ red.hex }}",
+    "blue": "{{ blue.hex }}",
+    "skyblue": "{{ sky.hex }}",
+    "teal": "{{ teal.hex }}",
+    "green": "{{ green.hex }}",
+    "yellow": "{{ yellow.hex }}",
+    "peach": "{{ peach.hex }}",
+    "maroon": "{{ maroon.hex }}",
+    "mauve": "{{ mauve.hex }}",
+    "lavender": "{{ lavender.hex }}",
+
+    "accent": "{{ mauve.hex }}",
+    "accentHover": "{{ lavender.hex }}",
+    "accentActive": "{{ lavender.hex }}",
+    "shadow": "#00000080",
+    "overlay": "{{ base.hex }}cc"
+  }
+}

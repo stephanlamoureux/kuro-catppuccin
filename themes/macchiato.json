@@ -1,0 +1,53 @@
+
+{
+  "theme": {
+    "bgPrimary": "#24273a",
+    "bgPrimaryTransparent": "#24273acc",
+    "bgSecondary": "#363a4f",
+    "bgTertiary": "#494d64",
+    "bgHover": "#5b6078",
+    "bgHoverSecondary": "#5b6078",
+    "bgHoverTertiary": "#6e738d",
+    "bgActive": "#363a4f",
+    "bgActiveSecondary": "#5b6078",
+    "bgActiveTertiary": "#6e738d",
+    "bgSeparator": "#8087a2",
+    "bgBorder": "#5b6078",
+    "bgScrollbar": "#b8c0e0",
+    "bgScrollbarHover": "#8087a2",
+    "bgScrollbarActive": "#a5adcb",
+
+    "fontColorPrimary": "#cad3f5",
+    "fontColorSecondary": "#b8c0e0",
+    "fontColorTertiary": "#a5adcb",
+    "fontColorDisabled": "#8087a2",
+    "fontColorWarning": "#eed49f",
+    "fontColorError": "#ed8796",
+    "fontColorSuccess": "#a6da95",
+    "fontColorBrand": "#c6a0f6",
+
+    "bgBrand": "#c6a0f6",
+    "bgBrandHover": "#b7bdf8",
+    "bgBrandHoverSecondary": "#c6a0f6",
+    "bgBrandSecondary": "#c6a0f6",
+    "bgBrandActive": "#b7bdf8",
+    "bgBrandDisable": "#363a4f",
+
+    "red": "#ed8796",
+    "blue": "#8aadf4",
+    "skyblue": "#91d7e3",
+    "teal": "#8bd5ca",
+    "green": "#a6da95",
+    "yellow": "#eed49f",
+    "peach": "#f5a97f",
+    "maroon": "#ee99a0",
+    "mauve": "#c6a0f6",
+    "lavender": "#b7bdf8",
+
+    "accent": "#c6a0f6",
+    "accentHover": "#b7bdf8",
+    "accentActive": "#b7bdf8",
+    "shadow": "#00000080",
+    "overlay": "#24273acc"
+  }
+}
