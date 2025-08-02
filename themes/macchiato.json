@@ -1,4 +1,5 @@
-"theme": {
+{
+    "theme": {
         "bgPrimary": "#24273a",
         "bgPrimaryTransparent": "#4d24273a",
         "bgSecondary": "#1e2030",
@@ -44,3 +45,4 @@
         "shadow": "#00000070",
         "overlay": "#24273acc"
     }
+}
