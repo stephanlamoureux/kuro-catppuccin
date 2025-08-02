@@ -4,7 +4,7 @@
   <img src="assets/preview.png" width="700"/>
 </p>
 
-## 🎨 Flavorful themes for [Kuro](https://github.com/kuroni/kuro)
+## 🎨 Flavorful themes for [Kuro](https://github.com/davidsmorais/kuro)
 
 This port brings the soothing Catppuccin color palette to Kuro, with full support for all four official flavors:
 
@@ -37,7 +37,7 @@ git clone https://github.com/your-username/catppuccin-kuro.git
 ```
 
 2. Copy your desired flavor from the `themes/` folder.
-3. Import it into your Kuro configuration located in .kuro.json.
+3. Import it into your Kuro configuration located in `.kuro.json`.
 
 ---
 
