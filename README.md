@@ -36,8 +36,8 @@ Each file in `themes/` is carefully tuned to match Catppuccin’s aesthetic and 
 git clone https://github.com/your-username/catppuccin-kuro.git
 ```
 
-2. Copy your desired flavor from the `assets/` folder.
-3. Import it into your Kuro configuration or use as needed.
+2. Copy your desired flavor from the `themes/` folder.
+3. Import it into your Kuro configuration located in .kuro.json.
 
 ---
 
