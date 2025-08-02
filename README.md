@@ -33,7 +33,7 @@ Each file in `themes/` is carefully tuned to match Catppuccin’s aesthetic and 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/catppuccin-kuro.git
+git clone https://github.com/stephanlamoureux/kuro-catppuccin.git
 ```
 
 2. Copy your desired flavor from the `themes/` folder.
