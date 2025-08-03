@@ -42,7 +42,7 @@ git clone https://github.com/stephanlamoureux/kuro-catppuccin.git
 ```
 
 2. Copy your desired flavor from the `themes/` folder.
-3. Import it into your Kuro configuration or place it wherever your Kuro theme files are stored.
+3. Import it into your Kuro configuration located in `.kuro.json`.
 
 ## 💝 Thanks to
 
