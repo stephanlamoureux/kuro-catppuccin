@@ -1,14 +1,14 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/kuroni/kuro">Kuro</a>
+	Catppuccin for <a href="https://github.com/dakiak/kuro">Kuro</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/stephanlamoureux/catppuccin-kuro/stargazers"><img src="https://img.shields.io/github/stars/stephanlamoureux/catppuccin-kuro?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/stephanlamoureux/catppuccin-kuro/issues"><img src="https://img.shields.io/github/issues/stephanlamoureux/catppuccin-kuro?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/stephanlamoureux/catppuccin-kuro/contributors"><img src="https://img.shields.io/github/contributors/stephanlamoureux/catppuccin-kuro?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/stephanlamoureux/kuro-catppuccin/stargazers"><img src="https://img.shields.io/github/stars/stephanlamoureux/kuro-catppuccin?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/stephanlamoureux/kuro-catppuccin/issues"><img src="https://img.shields.io/github/issues/stephanlamoureux/kuro-catppuccin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/stephanlamoureux/kuro-catppuccin/contributors"><img src="https://img.shields.io/github/contributors/stephanlamoureux/kuro-catppuccin?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
