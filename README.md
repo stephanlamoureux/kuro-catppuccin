@@ -15,17 +15,6 @@
 	<img src="assets/preview.png" width="700"/>
 </p>
 
-## 🎨 Flavorful themes for [Kuro](https://github.com/kuroni/kuro)
-
-This port brings the soothing Catppuccin color palette to [Kuro](https://github.com/kuroni/kuro), with full support for all four official flavors:
-
-- 🌑 Mocha
-- 🧊 Frappé
-- 🍵 Macchiato
-- 🌤️ Latte
-
-Each file in `themes/` is carefully tuned to match Catppuccin’s aesthetic and works beautifully with Kuro's modern interface.
-
 ---
 
 ## 📷 Previews
@@ -61,16 +50,10 @@ git clone https://github.com/stephanlamoureux/catppuccin-kuro.git
 
 ---
 
-## 🙋 FAQ
-
-- Q: **_"How do I make Kuro load my theme on startup?"_**  A: Add the theme import step to your Kuro config or launch wrapper.
-
----
-
 ## 💝 Thanks to
 
 - [Catppuccin](https://github.com/catppuccin) for the gorgeous color palette.
-- [kuroni](https://github.com/kuroni/kuro) for the minimal launcher.
+- [kuro](https://github.com/davidsmorais/kuro) for the linux app port.
 - [Stephan Lamoureux](https://github.com/stephanlamoureux) for maintaining this port.
 
 &nbsp;
