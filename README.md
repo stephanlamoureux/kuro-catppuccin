@@ -15,8 +15,6 @@
 	<img src="assets/preview.png" width="700"/>
 </p>
 
----
-
 ## 📷 Previews
 
 <details>
@@ -36,8 +34,6 @@
 <img src="assets/mocha.png"/>
 </details>
 
----
-
 ## 🚀 Usage
 
 1. Clone this repository:
@@ -47,8 +43,6 @@ git clone https://github.com/stephanlamoureux/catppuccin-kuro.git
 
 2. Copy your desired flavor from the `themes/` folder.
 3. Import it into your Kuro configuration or place it wherever your Kuro theme files are stored.
-
----
 
 ## 💝 Thanks to
 
