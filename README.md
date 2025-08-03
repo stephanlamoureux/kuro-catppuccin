@@ -38,7 +38,7 @@
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/stephanlamoureux/catppuccin-kuro.git
+git clone https://github.com/stephanlamoureux/kuro-catppuccin.git
 ```
 
 2. Copy your desired flavor from the `themes/` folder.
