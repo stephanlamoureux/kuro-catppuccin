@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="assets/preview.png" width="700"/>
+	<img src="assets/kuro-preview.webp" width="700"/>
 </p>
 
 ## 📷 Previews
