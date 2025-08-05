@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌤️ Latte</summary>
-<img src="assets/kuro-latte.png"/>
+<img src="assets/kuro-latte.png" width="75%"/>
 </details>
 <details>
 <summary>🧊 Frappé</summary>
-<img src="assets/kuro-frappe.png"/>
+<img src="assets/kuro-frappe.png" width="75%"/>
 </details>
 <details>
 <summary>🍵 Macchiato</summary>
-<img src="assets/kuro-macchiato.png"/>
+<img src="assets/kuro-macchiato.png" width="75%"/>
 </details>
 <details>
 <summary>🌑 Mocha</summary>
-<img src="assets/kuro-mocha.png"/>
+<img src="assets/kuro-mocha.png" width="75%"/>
 </details>
 
 ## 🚀 Usage
