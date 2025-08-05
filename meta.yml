@@ -1,7 +1,7 @@
 name: Kuro
-description: Soothing pastel theme for the Kuro todo app.
+description: Soothing pastel theme for the Kuro ToDo app.
 maintainers:
   - github: stephanlamoureux
 enabled: true
 palette: true
-screenshot: assets/mocha.png
+screenshot: assets/preview.png
