@@ -47,7 +47,7 @@ git clone https://github.com/stephanlamoureux/kuro-catppuccin.git
 ## 💝 Thanks to
 
 - [Catppuccin](https://github.com/catppuccin) for the gorgeous color palette.
-- [kuro](https://github.com/davidsmorais/kuro) for the linux app port.
+- [kuro](https://github.com/davidsmorais/kuro) for the Microsoft ToDo Linux app port.
 - [Stephan Lamoureux](https://github.com/stephanlamoureux) for maintaining this port.
 
 &nbsp;
