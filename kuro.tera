@@ -6,11 +6,13 @@ whiskers:
   filename: "themes/{{ flavor.identifier }}.json"
   hex_format: "#{{r}}{{g}}{{b}}{{z}}"
 ---
+
 {% if flavor.identifier == "latte" %}{% set warning_color = yellow.hex %}{% else %}{% set warning_color = red.hex %}{% endif %}
+
 {
   "theme": {
     "bgPrimary": "{{ base.hex }}",
-    "bgPrimaryTransparent": "{{ base.hex }}cc",
+    "bgPrimaryTransparent": "{{ base | mod(opacity=0.8) | get(key='hex') }}",
     "bgSecondary": "{{ surface0.hex }}",
     "bgTertiary": "{{ surface1.hex }}",
     "bgHover": "{{ surface2.hex }}",
@@ -56,6 +58,6 @@ whiskers:
     "accentHover": "{{ lavender.hex }}",
     "accentActive": "{{ lavender.hex }}",
     "shadow": "#00000080",
-    "overlay": "{{ base.hex }}cc"
+    "overlay": "{{ base | mod(opacity=0.8) | get(key='hex') }}"
   }
 }
