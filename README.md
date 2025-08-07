@@ -12,29 +12,29 @@
 </p>
 
 <p align="center">
-	<img src="assets/kuro-preview.webp" width="700"/>
+	<img src="assets/preview.webp"/>
 </p>
 
-## 📷 Previews
+## Previews
 
 <details>
-<summary>🌤️ Latte</summary>
-<img src="assets/kuro-latte.png"/>
+<summary>🌻 Latte</summary>
+<img src="assets/latte.png"/>
 </details>
 <details>
-<summary>🧊 Frappé</summary>
-<img src="assets/kuro-frappe.png"/>
+<summary>🪴 Frappé</summary>
+<img src="assets/frappe.png"/>
 </details>
 <details>
-<summary>🍵 Macchiato</summary>
-<img src="assets/kuro-macchiato.png"/>
+<summary>🌺 Macchiato</summary>
+<img src="assets/macchiato.png"/>
 </details>
 <details>
-<summary>🌑 Mocha</summary>
-<img src="assets/kuro-mocha.png"/>
+<summary>🌿 Mocha</summary>
+<img src="assets/mocha.png"/>
 </details>
 
-## 🚀 Usage
+## Usage
 
 1. Clone this repository:
 ```bash
@@ -46,9 +46,7 @@ git clone https://github.com/stephanlamoureux/kuro-catppuccin.git
 
 ## 💝 Thanks to
 
-- [Catppuccin](https://github.com/catppuccin) for the gorgeous color palette.
-- [Kuro](https://github.com/davidsmorais/kuro) for the Microsoft ToDo Linux app port.
-- [Stephan Lamoureux](https://github.com/stephanlamoureux) for maintaining this port.
+- [Stephan Lamoureux](https://github.com/stephanlamoureux)
 
 &nbsp;
 
