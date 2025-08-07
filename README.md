@@ -42,7 +42,8 @@ git clone https://github.com/stephanlamoureux/kuro-catppuccin.git
 ```
 
 2. Copy your desired flavor from the `themes/` folder.
-3. Import it into your Kuro configuration located in `.kuro.json`.
+3. Import it into your Kuro configuration located in `~/.kuro.json`.
+4. You may need to activate your custom theme by entering <kbd>CTRL</kbd> + <kbd>S</kbd> or by right-clicking the kuro icon in the system tray and selecting Custom Theme.
 
 ## 💝 Thanks to
 
