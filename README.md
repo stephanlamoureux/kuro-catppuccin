@@ -36,14 +36,13 @@
 
 ## Usage
 
-1. Clone this repository:
-```bash
-git clone https://github.com/stephanlamoureux/kuro-catppuccin.git
-```
+1. Copy your desired flavor from the [themes](https://github.com/stephanlamoureux/kuro-catppuccin/tree/main/themes) folder.
+2. Paste it into your Kuro configuration.
+   - The config file is usually located in `~/.kuro.json` or by pressing <kbd>CTRL</kbd> + <kbd>.</kbd> from Kuro.
+3. Activate the theme.
+   - Activate your custom theme by pressing <kbd>CTRL</kbd> + <kbd>S</kbd> or by right-clicking the kuro icon in the system tray, & selecting Custom Theme.
 
-2. Copy your desired flavor from the `themes/` folder.
-3. Import it into your Kuro configuration located in `~/.kuro.json`.
-4. You may need to activate your custom theme by entering <kbd>CTRL</kbd> + <kbd>S</kbd> or by right-clicking the kuro icon in the system tray and selecting Custom Theme.
+The Kuro [wiki](https://github.com/davidsmorais/kuro/wiki) may provide more details if needed.
 
 ## 💝 Thanks to
 
