@@ -1,0 +1,101 @@
+{
+  "flavor": {
+    "name": "Macchiato",
+    "identifier": "macchiato"
+  },
+  "theme": {
+    "bgPrimary": {
+      "hex": "#24273a"
+    },
+    "bgPrimaryTransparent": {
+      "hex": "#24273acc"
+    },
+    "bgSecondary": {
+      "hex": "#363a4f"
+    },
+    "bgTertiary": {
+      "hex": "#494d64"
+    },
+    "bgHover": {
+      "hex": "#5b6078"
+    },
+    "bgHoverSecondary": {
+      "hex": "#5b6078"
+    },
+    "bgHoverTertiary": {
+      "hex": "#6e738d"
+    },
+    "bgActive": {
+      "hex": "#363a4f"
+    },
+    "bgActiveSecondary": {
+      "hex": "#5b6078"
+    },
+    "bgActiveTertiary": {
+      "hex": "#6e738d"
+    },
+    "bgSeparator": {
+      "hex": "#8087a2"
+    },
+    "bgBorder": {
+      "hex": "#5b6078"
+    },
+    "bgScrollbar": {
+      "hex": "#a5adcb"
+    },
+    "fontColorPrimary": {
+      "hex": "#cad3f5"
+    },
+    "fontColorSecondary": {
+      "hex": "#a5adcb"
+    },
+    "fontColorTertiary": {
+      "hex": "#939ab7"
+    },
+    "fontColorWarning": {
+      "hex": "#eed49f"
+    },
+    "fontColorBrand": {
+      "hex": "#c6a0f6"
+    },
+    "fontColorDanger": {
+      "hex": "#ed8796"
+    },
+    "fontColorDisable": {
+      "hex": "#8087a2"
+    },
+    "bgDanger": {
+      "hex": "#ed8796"
+    },
+    "bgBrand": {
+      "hex": "#c6a0f6"
+    },
+    "bgBrandHover": {
+      "hex": "#b7bdf8"
+    },
+    "bgBrandHoverSecondary": {
+      "hex": "#c6a0f6"
+    },
+    "bgBrandSecondary": {
+      "hex": "#c6a0f6"
+    },
+    "bgBrandDisable": {
+      "hex": "#363a4f"
+    },
+    "red": {
+      "hex": "#ed8796"
+    },
+    "blue": {
+      "hex": "#8aadf4"
+    },
+    "sky": {
+      "hex": "#91d7e3"
+    },
+    "green": {
+      "hex": "#a6da95"
+    },
+    "mauve": {
+      "hex": "#c6a0f6"
+    }
+  }
+}

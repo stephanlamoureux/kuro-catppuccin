@@ -1,0 +1,101 @@
+{
+  "flavor": {
+    "name": "Frappe",
+    "identifier": "frappe"
+  },
+  "theme": {
+    "bgPrimary": {
+      "hex": "#303446"
+    },
+    "bgPrimaryTransparent": {
+      "hex": "#303446cc"
+    },
+    "bgSecondary": {
+      "hex": "#292c3c"
+    },
+    "bgTertiary": {
+      "hex": "#414559"
+    },
+    "bgHover": {
+      "hex": "#51576d"
+    },
+    "bgHoverSecondary": {
+      "hex": "#51576d"
+    },
+    "bgHoverTertiary": {
+      "hex": "#626880"
+    },
+    "bgActive": {
+      "hex": "#292c3c"
+    },
+    "bgActiveSecondary": {
+      "hex": "#51576d"
+    },
+    "bgActiveTertiary": {
+      "hex": "#626880"
+    },
+    "bgSeparator": {
+      "hex": "#737994"
+    },
+    "bgBorder": {
+      "hex": "#51576d"
+    },
+    "bgScrollbar": {
+      "hex": "#b5bfe2"
+    },
+    "fontColorPrimary": {
+      "hex": "#c6d0f5"
+    },
+    "fontColorSecondary": {
+      "hex": "#b5bfe2"
+    },
+    "fontColorTertiary": {
+      "hex": "#a5adce"
+    },
+    "fontColorWarning": {
+      "hex": "#e5c890"
+    },
+    "fontColorBrand": {
+      "hex": "#ca9ee6"
+    },
+    "fontColorDanger": {
+      "hex": "#e78284"
+    },
+    "fontColorDisable": {
+      "hex": "#737994"
+    },
+    "bgDanger": {
+      "hex": "#e78284"
+    },
+    "bgBrand": {
+      "hex": "#ca9ee6"
+    },
+    "bgBrandHover": {
+      "hex": "#babbf1"
+    },
+    "bgBrandHoverSecondary": {
+      "hex": "#ca9ee6"
+    },
+    "bgBrandSecondary": {
+      "hex": "#ca9ee6"
+    },
+    "bgBrandDisable": {
+      "hex": "#292c3c"
+    },
+    "red": {
+      "hex": "#e78284"
+    },
+    "blue": {
+      "hex": "#8caaee"
+    },
+    "sky": {
+      "hex": "#99d1db"
+    },
+    "green": {
+      "hex": "#a6d189"
+    },
+    "mauve": {
+      "hex": "#ca9ee6"
+    }
+  }
+}

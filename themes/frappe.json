@@ -1,6 +1,3 @@
-
-
-
 {
   "theme": {
     "bgPrimary": "#303446",
@@ -18,34 +15,27 @@
     "bgScrollbar": "#b5bfe2",
     "bgScrollbarHover": "#838ba7",
     "bgScrollbarActive": "#a5adce",
-
+    "bgDanger": "#e5c890",
     "fontColorPrimary": "#c6d0f5",
     "fontColorSecondary": "#b5bfe2",
     "fontColorTertiary": "#a5adce",
     "fontColorDisabled": "#838ba7",
-    "fontColorWarning": "#e78284",
+    "fontColorWarning": "#e5c890",
+    "fontColorDanger": "#303446",
     "fontColorError": "#e78284",
     "fontColorSuccess": "#a6d189",
     "fontColorBrand": "#ca9ee6",
-
     "bgBrand": "#ca9ee6",
     "bgBrandHover": "#babbf1",
     "bgBrandHoverSecondary": "#ca9ee6",
     "bgBrandSecondary": "#ca9ee6",
     "bgBrandActive": "#babbf1",
     "bgBrandDisable": "#414559",
-
     "red": "#e78284",
     "blue": "#8caaee",
     "skyblue": "#99d1db",
-    "teal": "#81c8be",
     "green": "#a6d189",
-    "yellow": "#e5c890",
-    "peach": "#ef9f76",
-    "maroon": "#ea999c",
-    "mauve": "#ca9ee6",
-    "lavender": "#babbf1",
-
+    "purple": "#ca9ee6",
     "accent": "#ca9ee6",
     "accentHover": "#babbf1",
     "accentActive": "#babbf1",

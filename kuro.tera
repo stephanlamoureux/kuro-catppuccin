@@ -3,11 +3,10 @@ whiskers:
   version: ^2.5.1
   matrix:
     - flavor
+  flavor_path: "flavors/themes/{{ flavor.identifier }}"
   filename: "themes/{{ flavor.identifier }}.json"
   hex_format: "#{{r}}{{g}}{{b}}{{z}}"
 ---
-
-{% if flavor.identifier == "latte" %}{% set warning_color = yellow.hex %}{% else %}{% set warning_color = red.hex %}{% endif %}
 
 {
   "theme": {
@@ -26,12 +25,14 @@ whiskers:
     "bgScrollbar": "{{ subtext1.hex }}",
     "bgScrollbarHover": "{{ overlay1.hex }}",
     "bgScrollbarActive": "{{ subtext0.hex }}",
+    "bgDanger": "{{yellow.hex}}",
 
     "fontColorPrimary": "{{ text.hex }}",
     "fontColorSecondary": "{{ subtext1.hex }}",
     "fontColorTertiary": "{{ subtext0.hex }}",
     "fontColorDisabled": "{{ overlay1.hex }}",
-    "fontColorWarning": "{{ warning_color }}",
+    "fontColorWarning": "{{ yellow.hex }}",
+    "fontColorDanger": "{{ base.hex }}",
     "fontColorError": "{{ red.hex }}",
     "fontColorSuccess": "{{ green.hex }}",
     "fontColorBrand": "{{ mauve.hex }}",
@@ -46,13 +47,8 @@ whiskers:
     "red": "{{ red.hex }}",
     "blue": "{{ blue.hex }}",
     "skyblue": "{{ sky.hex }}",
-    "teal": "{{ teal.hex }}",
     "green": "{{ green.hex }}",
-    "yellow": "{{ yellow.hex }}",
-    "peach": "{{ peach.hex }}",
-    "maroon": "{{ maroon.hex }}",
-    "mauve": "{{ mauve.hex }}",
-    "lavender": "{{ lavender.hex }}",
+    "purple": "{{ mauve.hex }}",
 
     "accent": "{{ mauve.hex }}",
     "accentHover": "{{ lavender.hex }}",

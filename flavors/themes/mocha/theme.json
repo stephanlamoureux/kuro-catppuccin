@@ -1,0 +1,101 @@
+{
+  "flavor": {
+    "name": "Mocha",
+    "identifier": "mocha"
+  },
+  "theme": {
+    "bgPrimary": {
+      "hex": "#1e1e2e"
+    },
+    "bgPrimaryTransparent": {
+      "hex": "#1e1e2ecc"
+    },
+    "bgSecondary": {
+      "hex": "#313244"
+    },
+    "bgTertiary": {
+      "hex": "#45475a"
+    },
+    "bgHover": {
+      "hex": "#585b70"
+    },
+    "bgHoverSecondary": {
+      "hex": "#585b70"
+    },
+    "bgHoverTertiary": {
+      "hex": "#6c7086"
+    },
+    "bgActive": {
+      "hex": "#313244"
+    },
+    "bgActiveSecondary": {
+      "hex": "#585b70"
+    },
+    "bgActiveTertiary": {
+      "hex": "#6c7086"
+    },
+    "bgSeparator": {
+      "hex": "#7f849c"
+    },
+    "bgBorder": {
+      "hex": "#585b70"
+    },
+    "bgScrollbar": {
+      "hex": "#bac2de"
+    },
+    "fontColorPrimary": {
+      "hex": "#cdd6f4"
+    },
+    "fontColorSecondary": {
+      "hex": "#bac2de"
+    },
+    "fontColorTertiary": {
+      "hex": "#a6adc8"
+    },
+    "fontColorWarning": {
+      "hex": "#f9e2af"
+    },
+    "fontColorBrand": {
+      "hex": "#cba6f7"
+    },
+    "fontColorDanger": {
+      "hex": "#f38ba8"
+    },
+    "fontColorDisable": {
+      "hex": "#7f849c"
+    },
+    "bgDanger": {
+      "hex": "#f38ba8"
+    },
+    "bgBrand": {
+      "hex": "#cba6f7"
+    },
+    "bgBrandHover": {
+      "hex": "#b4befe"
+    },
+    "bgBrandHoverSecondary": {
+      "hex": "#cba6f7"
+    },
+    "bgBrandSecondary": {
+      "hex": "#cba6f7"
+    },
+    "bgBrandDisable": {
+      "hex": "#313244"
+    },
+    "red": {
+      "hex": "#f38ba8"
+    },
+    "blue": {
+      "hex": "#89b4fa"
+    },
+    "sky": {
+      "hex": "#89dceb"
+    },
+    "green": {
+      "hex": "#a6e3a1"
+    },
+    "mauve": {
+      "hex": "#cba6f7"
+    }
+  }
+}
